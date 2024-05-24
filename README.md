@@ -1,34 +1,31 @@
-## Sobre mim
+## Olá! Meu nome é João Pedro.
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Ciência da Computação na Universidade Federal do Tocantins.
-- 🌱 Aprendendo mais sobre JavaScript, HTML, CSS, Redes de computadores, Pentest.
+- 🌱 Aprendendo mais sobre JavaScript, HTML, CSS, Redes de computadores, Pentest, MongoDB e Linux (Manjaro).
 
 ## Minhas Skills
 
-**Aplicações e dados**
+**Linguagens de Programação**
 
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
-<code><img height="32" src="https://img.icons8.com/?size=100&id=FRRACRKRsw2s&format=png&color=000000" alt="java"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/><code>
+<img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />|<img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" width=60>|<img  width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+|--|--|--|
 
 
 **DevOps**
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+<img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" width=50> | <img src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000" width=50> | <img src="https://img.icons8.com/?size=100&id=106567&format=png&color=000000" width=50>
+|--|--|--|
 
 **Ferramentas de desenvolvimento**
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+<img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" width=50>|<img src="https://img.icons8.com/?size=100&id=rPAHs7H1vriV&format=png&color=000000" width=50>|<img src="https://img.icons8.com/?size=100&id=21049&format=png&color=000000" width=50>
+|--|--|--|
 
+**DataBase**
+
+<img  width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />|<img  width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />   
+|--|--|
 
 <br/>
 
@@ -36,7 +33,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Iohanan-Cephas&theme=dracula&show_icons=true" />
 </a>
 
-## Onde me encontrar
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="433">
+<br><br>
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iohanan-cephas/)]([https://www.linkedin.com/in/iohanan-cephas/])
-[![Gmail Badge](https://img.shields.io/badge/-joapedrov159@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joapedrov159@hotmail.com)](mailto:joapedrov159@hotmail.com)
+## 🌐Redes sociais
+
+<a href="https://www.linkedin.com/in/iohanan-cephas/"><img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" width=50></a> | <a href="mailto:eghther159@gmail.com"><img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width=50></a>
+|--|--|
