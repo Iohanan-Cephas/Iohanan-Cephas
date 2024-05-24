@@ -29,12 +29,12 @@
 
 <br/>
 
-<a href="https://github.com/Iohanan-Cephas" title="Perfil do JP">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Iohanan-Cephas&theme=dracula&show_icons=true" />
-</a>
+  <img height="300" src="https://github-readme-stats.vercel.app/api?username=Iohanan-Cephas&theme=dracula&show_icons=true" /> | <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iohanan-Cephas&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
+|--|--|
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="433">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 <br><br>
+
 
 ## 🌐Redes sociais
 
